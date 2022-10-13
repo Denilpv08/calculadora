@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+}
+
+.card {
+    text-align: center;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+input {
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
